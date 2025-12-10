@@ -41,8 +41,8 @@
       "versionsRepositoryURL": "https://github.com/OpenTermsArchive/france-elections-versions"
     },
     "collection-api": {
-      "port": 3000,
-      "basePath": "/collection-api"
+      "port": 3001,
+      "basePath": "/api/france-elections"
     }
   }
 }
