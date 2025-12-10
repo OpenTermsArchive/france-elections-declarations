@@ -1,6 +1,6 @@
 {
   "name": "YouTube",
-  "documents": {
+  "terms": {
     "Privacy Policy": {
       "fetch": "https://policies.google.com/privacy?hl=fr",
       "select": "div[role=\"article\"]",

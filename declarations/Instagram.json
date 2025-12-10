@@ -1,6 +1,6 @@
 {
   "name": "Instagram",
-  "documents": {
+  "terms": {
     "Privacy Policy": {
       "fetch": "https://mbasic.facebook.com/privacy/policy/printable/",
       "select": [
