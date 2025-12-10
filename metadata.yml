@@ -24,7 +24,7 @@ governance:
   Open Terms Archive:
     url: https://opentermsarchive.org
     logo: https://opentermsarchive.org/images/logo/logo-open-terms-archive-black-small.png
-    roles: [host, administrator, curator, maintainer]
+    roles: [host, sysadmin, curator, maintainer]
   Reset Tech:
     url: https://reset.tech
     logo: https://opentermsarchive.org/images/contributors/reset-tech.png
