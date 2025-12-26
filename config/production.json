@@ -37,8 +37,11 @@
       }
     },
     "dataset": {
-      "title": "france-elections",
-      "versionsRepositoryURL": "https://github.com/OpenTermsArchive/france-elections-versions"
+      "title": "france-elections collection dataset",
+      "versionsRepositoryURL": "https://github.com/OpenTermsArchive/france-elections-versions",
+      "datagouv": {
+        "datasetId": "953a9799-f882-4516-b8bf-0c6581b6fc70"
+      }
     },
     "collection-api": {
       "port": 3001,
